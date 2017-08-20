@@ -75,7 +75,6 @@ public class App: Object {
 		this.gtkBoxMenu.pack_start(tv, false, false, 2);
     }
 
-
 }
 
 
